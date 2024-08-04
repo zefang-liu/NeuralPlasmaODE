@@ -1,6 +1,6 @@
 # NeuralPlasmaODE: Neural ODEs for Tokamak Plasma Dynamics [ICLR 2024 AI4DiffEqtnsInSci Workshop]
 
-Welcome to our project on using neural ordinary differential equations (Neural ODEs) for modeling tokamak plasma dynamics! This work was accepted as a [poster](poster/plasma_poster.pdf) at the [ICLR 2024 Workshop on AI4DifferentialEquations in Science](https://ai4diffeqtnsinsci.github.io/).
+Welcome to our project on using neural ordinary differential equations (Neural ODEs) for modeling tokamak plasma dynamics! This work was accepted as a [poster](poster/plasma_poster.pdf) at the [ICLR 2024 Workshop on AI4DifferentialEquations in Science](https://ai4diffeqtnsinsci.github.io/). You can find our [paper on arXiv](https://arxiv.org/abs/2403.01635).
 
 ## Introduction
 
