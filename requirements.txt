@@ -1,0 +1,8 @@
+matplotlib==3.3.4
+numpy==1.20.1
+scikit_learn==1.5.1
+scipy==1.6.1
+torch==1.7.1
+torchdiffeq==0.2.1
+torchinterp1d==1.1
+xarray==0.16.2
