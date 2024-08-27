@@ -1,6 +1,6 @@
 # NeuralPlasmaODE: Application of Neural Ordinary Differential Equations for Tokamak Plasma Dynamics Analysis
 
-Welcome to our project on using neural ordinary differential equations (Neural ODEs) for modeling tokamak plasma dynamics! This work was accepted as a [poster](poster/plasma_poster.pdf) at the [ICLR 2024 Workshop on AI4DifferentialEquations in Science](https://ai4diffeqtnsinsci.github.io/). You can find our [paper on arXiv](https://arxiv.org/abs/2403.01635).
+Welcome to our project on using neural ordinary differential equations (Neural ODEs) for modeling tokamak plasma dynamics! This work was accepted as a [poster](poster/plasma_poster.pdf) at the [ICLR 2024 Workshop on AI4DifferentialEquations in Science](https://ai4diffeqtnsinsci.github.io/). You can find our papers on arXiv ([DIII-D paper](https://arxiv.org/abs/2403.01635) and [ITER paper](https://arxiv.org/abs/2408.14404)).
 
 ## Introduction
 
@@ -32,6 +32,13 @@ If you find this work useful, please consider citing our work as:
   title={Application of Neural Ordinary Differential Equations for Tokamak Plasma Dynamics Analysis},
   author={Liu, Zefang and Stacey, Weston M},
   journal={arXiv preprint arXiv:2403.01635},
+  year={2024}
+}
+
+@article{liu2024application2,
+  title={Application of Neural Ordinary Differential Equations for ITER Burning Plasma Dynamics},
+  author={Liu, Zefang and Stacey, Weston M},
+  journal={arXiv preprint arXiv:2408.14404},
   year={2024}
 }
 ```
