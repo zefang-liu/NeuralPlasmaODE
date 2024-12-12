@@ -1,9 +1,9 @@
-# \[ICLR 2024 AI4DiffEqtnsInSci\] NeuralPlasmaODE: Application of Neural Ordinary Differential Equations for Tokamak Plasma Dynamics Analysis
+# \[ICLR'24 AI4DiffEqtnsInSci\] \[AAAI'25 AI2ASE\] NeuralPlasmaODE: Application of Neural Ordinary Differential Equations for Tokamak Plasma Dynamics Analysis
 
-Welcome to our project on using neural ordinary differential equations (Neural ODEs) for modeling tokamak plasma dynamics! This work was accepted as a [poster](poster/plasma_poster.pdf) at the [ICLR 2024 Workshop on AI4DifferentialEquations in Science](https://ai4diffeqtnsinsci.github.io/). You can find our papers on arXiv ([DIII-D paper](https://arxiv.org/abs/2403.01635) and [ITER paper](https://arxiv.org/abs/2408.14404)).
+Welcome to our project on using neural ordinary differential equations (Neural ODEs) for modeling tokamak plasma dynamics! This work was accepted as a [poster](posters/plasma_poster.pdf) at the [ICLR 2024 Workshop on AI4DifferentialEquations in Science](https://ai4diffeqtnsinsci.github.io/) and a poster at the [AAAI 2025 Workshop on AI to Accelerate Science and Engineering](https://ai-2-ase.github.io/). You can find our papers on arXiv ([DIII-D paper](https://arxiv.org/abs/2403.01635) and [ITER paper](https://arxiv.org/abs/2408.14404)).
 
 <div align="center">
-  <img src="poster/plasma_ode.png" alt="NeuralPlasmaODE Framework" width="600"/>
+  <img src="posters/plasma_ode.png" alt="NeuralPlasmaODE Framework" width="600"/>
 </div>
 
 ## Introduction
